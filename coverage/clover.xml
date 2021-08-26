@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1629935653056" clover="3.2.0">
-  <project timestamp="1629935653056" name="All files">
-    <metrics statements="18" coveredstatements="18" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6" elements="28" coveredelements="28" complexity="0" loc="18" ncloc="18" packages="3" files="3" classes="3"/>
+<coverage generated="1629936178316" clover="3.2.0">
+  <project timestamp="1629936178316" name="All files">
+    <metrics statements="25" coveredstatements="25" conditionals="6" coveredconditionals="6" methods="7" coveredmethods="7" elements="38" coveredelements="38" complexity="0" loc="25" ncloc="25" packages="4" files="4" classes="4"/>
     <package name="Test_1">
       <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
       <file name="stringLength.js" path="D:\Microverse-projects\test-practice\Test_1\stringLength.js">
@@ -27,6 +27,19 @@
         <line num="13" count="1" type="stmt"/>
         <line num="14" count="1" type="stmt"/>
         <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Test_4">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="capitalize.js" path="D:\Microverse-projects\test-practice\Test_4\capitalize.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
       </file>
     </package>
     <package name="test_2">
